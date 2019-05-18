@@ -19,6 +19,7 @@ import java.net.URL;
 import static com.example.vksearch.Utils.NetworkUtils.generateURL;
 import static com.example.vksearch.Utils.NetworkUtils.getResponseFromURL;
 
+// First activity
 public class MainActivity extends AppCompatActivity {
 
     private EditText searchField;
