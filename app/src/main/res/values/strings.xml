@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VkSearch</string>
+    <string name="id">Введите id вконтакте</string>
+    <string name="search">Искать!</string>
+    <string name="result">тут будет результат</string>
+    
+    <string name="error_message">Произошла ошибка, попробуйте ещё раз</string>
+</resources>
